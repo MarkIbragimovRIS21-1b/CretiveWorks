@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\parke\Desktop\32. Комивояжер\graph.h(420,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\parke\Desktop\32. Комивояжер\graph.h(482,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\parke\Desktop\32. Комивояжер\graph.h(613,8): warning C4101: targetVertex: неиспользованная локальная переменная
+C:\Users\parke\Desktop\32. Комивояжер\graph.h(614,8): warning C4101: edgeWeight: неиспользованная локальная переменная
+C:\Users\parke\Desktop\32. Комивояжер\graph.h(280,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\parke\Desktop\32. Комивояжер\graph.h(279): message : во время компиляции функции-члена класс шаблон "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\parke\Desktop\32. Комивояжер\graph.h(330): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\parke\Desktop\32. Комивояжер\graph.h(288): message : во время компиляции функции-члена класс шаблон "Graph<int>::Graph(void)"
+C:\Users\parke\Desktop\32. Комивояжер\graph.h(56): message : выполняется компиляция ссылки на экземпляр шаблон функции "Graph<int>::Graph(void)"
+C:\Users\parke\Desktop\32. Комивояжер\graph.h(56): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<int>"
+  komivoyager.vcxproj -> C:\Users\parke\source\repos\komivoyager\Debug\komivoyager.exe
