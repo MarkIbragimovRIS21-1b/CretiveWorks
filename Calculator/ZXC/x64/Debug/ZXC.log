@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (ZXC.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MyForm.cpp
+C:\Users\Фвы\source\repos\ZXC\ZXC\MyForm.h(307,41): warning C4101: z2: неиспользованная локальная переменная
+C:\Users\Фвы\source\repos\ZXC\ZXC\MyForm.h(307,37): warning C4101: z1: неиспользованная локальная переменная
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ZXC.vcxproj -> C:\Users\Фвы\source\repos\ZXC\x64\Debug\Calc.exe

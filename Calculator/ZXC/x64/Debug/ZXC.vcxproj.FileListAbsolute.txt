@@ -1,0 +1,4 @@
+C:\Users\Фвы\source\repos\ZXC\ZXC\x64\Debug\ZXC.vcxproj.AssemblyReference.cache
+C:\Users\Фвы\source\repos\ZXC\ZXC\x64\Debug\ZXC.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Фвы\source\repos\ZXC\ZXC\x64\Debug\ZXC.MyForm.resources
+C:\Users\Фвы\source\repos\ZXC\ZXC\x64\Debug\ZXC.vcxproj.GenerateResource.cache
